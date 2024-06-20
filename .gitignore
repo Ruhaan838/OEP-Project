@@ -1,0 +1,5 @@
+/01_deeplabv3plus_with_dropout_0o6_and_0o7_Adam/model/deeplabv3plus_model.weights (1).h5
+/02_deeplabv3plus_with_dropout_0o9_and_0o10_Adam/model/deeplabv3plus_model.weights (1).h5
+/04_deeplabv3plus_with_dropout_0o9_and_0o9_Adam/model/deeplabv3plus_model.weights.h5
+/05_deeplabv3plus_with_dropout_004_and_0o4_Adam_dataset_size_167_epoch_10/model/deeplabv3plus_model.weights.h5
+/06_deeplabv3plus_with_dropout_0o4_and_0o4_Adam_dataset_size_167_epoch_20/model/deeplabv3plus_model.weights (1).h5
